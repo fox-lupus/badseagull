@@ -1,0 +1,75 @@
+.thebody
+{
+background-color: #E8E8E8;	
+justify-content: center;
+display:  inline-flex;
+flex-wrap:wrap;
+}
+
+.div1
+{
+float:left;
+background-color:  #B6B6B6;
+display:  inline-flex;	
+align-items: center;
+justify-content: center;
+flex-wrap:wrap;
+width:160vh;
+margin-bottom:50px;
+
+}
+.sub-head
+{
+font-size:95%;
+margin-top:0px;
+}
+.head{
+justify-content: center;
+display:  inline-flex;
+flex-wrap:wrap;
+flex-direction: column;
+align-items:  center;
+}
+.head h1
+{
+margin:0px;
+}
+.sum{
+background-color:#668186;
+width:160vh;
+padding-left:2vh;
+}
+.sum1
+{
+background-color:#668186;
+width:163	vh;
+}
+.uptotop{
+position: sticky; top: 1px;
+margin-left:0px;
+margin-top:px;
+}
+/*background-color: #705C5C;*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
